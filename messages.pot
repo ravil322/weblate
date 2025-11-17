@@ -1,0 +1,7 @@
+#: src/main.js:10
+msgid "Welcome to Betcity"
+msgstr ""
+
+#: src/main.js:15
+msgid "Place Bet"
+msgstr ""
